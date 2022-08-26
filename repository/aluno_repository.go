@@ -1,4 +1,4 @@
-package repositoryfun
+package repository
 
 import (
 	"github.com/JuliaTeles/golang/database"
